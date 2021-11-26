@@ -1,3 +1,7 @@
+## [1.1.0]
+* migrated to version flutter 2.0
+
+
 ## [1.0.4]
 
 * Add optional decoration object
